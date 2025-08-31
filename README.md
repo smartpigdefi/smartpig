@@ -125,6 +125,8 @@ Para apresentações e vídeos, o Smart Pig inclui um modo demo completo:
 
 ```
 smart-pig-defi/
+├── docs/                      # Documentação
+│   └── PRD.md                 # Product Requirements Document
 ├── Frontend/                  # React TypeScript
 │   ├── src/
 │   │   ├── components/

@@ -1,0 +1,50 @@
+# Smart Pig - DeFi Platform
+
+## Project Overview
+Smart Pig is a gamified DeFi platform for Brazilian users with PIX integration and biometric authentication.
+
+## Tech Stack
+- Frontend: React 18 + TypeScript
+- Backend: NestJS + TypeScript  
+- Blockchain: Stellar Network
+- Authentication: WebAuthn/Passkeys
+- Payment: PIX integration
+
+## Key Features
+- Pig evolution gamification system
+- PIX-to-USDC conversion
+- Biometric authentication
+- Real-time yield farming dashboard
+- Demo mode for presentations
+
+## Code Style
+- Use TypeScript strict mode
+- Follow React functional components
+- Implement responsive design
+- Include proper error handling
+- Add comprehensive documentation
+
+## File Structure
+- Frontend components in `/Frontend/src/components/`
+- Backend modules in `/Backend/src/`
+- Documentation in `/docs/`
+
+## Functional Operations
+
+### Required Actions at Start of New Conversation
+1. **Always read `docs/planning.md`** - Review current project status, timeline, and resource allocation
+2. **Check `docs/tasks.md`** - Review existing tasks and priorities before starting work
+3. **Mark completed tasks immediately** - Update task status as soon as work is finished
+4. **Add new discovered tasks** - Document any new tasks discovered during development
+
+### Task Management Workflow
+- Start each conversation by reviewing project planning and current tasks
+- Update task status in real-time as work progresses
+- Document new requirements or issues as they arise
+- Maintain clear communication about task completion and new discoveries
+
+### Documentation Standards
+- Keep planning document updated with current progress
+- Maintain task list with clear priorities and status
+- Document all technical decisions and architectural changes
+- Update project timeline as milestones are achieved 
